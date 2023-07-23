@@ -1,0 +1,6 @@
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.vcxproj.AssemblyReference.cache
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.Authentication.resources
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.vcxproj.GenerateResource.cache
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.Registration.resources
+C:\Users\rauli\source\repos\Chating\Chating\x64\Debug\Chating.Chat.resources
