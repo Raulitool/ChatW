@@ -1,4 +1,4 @@
 # ChatW
 HomeTaskOfSkillFactory
 
-![Пример картинки](Дизайн.png)
+![Пример дизайна WinForm](Дизайн.png)
