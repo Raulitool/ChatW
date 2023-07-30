@@ -268,7 +268,9 @@ namespace Chating {
 	
 
 	private: System::Void listBox1_SelectedIndexChanged(System::Object^ sender, System::EventArgs^ e) {
-		
+		label2->Visible = false;
+		richTextBox1->Visible = false;
+		textBox1->Visible = false;
 	}
 private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 
@@ -294,7 +296,9 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 private: System::Void Chat_Load(System::Object^ sender, System::EventArgs^ e) {
 	// Очистка ListBox1 перед добавлением новых элементов
 	
-	
+	label2->Visible = false;
+	richTextBox1->Visible = false;
+	textBox1->Visible = false;
 
 	// Получение пути к папке, в которой выполняется приложение
 	String^ folderPath = System::Windows::Forms::Application::StartupPath;
@@ -454,7 +458,10 @@ private: void UpdateRichTextBox()
 
 
 private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {
-	
+	label2->Visible = true;
+	richTextBox1->Visible = true;
+	textBox1->Visible = true;
+
 }
 private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	
